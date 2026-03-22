@@ -5,6 +5,6 @@ swig
 dtc
 uboot-tools
 python
-arm-linux-gnueabihf-gcc
-arm-linux-gnueabihf-binutils
-arm-linux-gnueabihf-glibc
+arm-linux-none-eabihf-gcc
+arm-linux-none-eabihf-binutils
+arm-linux-none-eabihf-glibc 
