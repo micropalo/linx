@@ -1,0 +1,10 @@
+base-devel
+git
+bc
+swig
+dtc
+uboot-tools
+python
+arm-linux-gnueabihf-gcc
+arm-linux-gnueabihf-binutils
+arm-linux-gnueabihf-glibc
